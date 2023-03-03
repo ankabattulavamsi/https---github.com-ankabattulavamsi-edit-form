@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.dialog-box-change{
+  background: transparent;
+}
+
+.css-12rl710-MuiPaper-root-MuiDialog-paper {
+  background-color: transparent !important;
+}
+
+.css-12rl710-MuiPaper-root-MuiDialog-paper {
+  background-color: transparent;
+  color: transparent;
+}
+
+.error-message {
+  color: #b00020 !important;
+  margin-top: 5px;
+  font-size: 14px;
+  text-align: left;
+  text-transform: capitalize;
+  font-family: "Roboto";
+}
